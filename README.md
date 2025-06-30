@@ -20,28 +20,6 @@ You can view the site live at:
 
 ## 🗂 Folder Structure
 
-**# Minchang's Portfolio
-
-Welcome to my personal portfolio — a space where I showcase the projects, tools, and creative experiments I’ve been building since the summer before my junior year.
-
-This site includes:
-- 🛠 Technical and academic projects from internships, school, and personal learning
-- 🎮 A collection of fun, small apps and web-based experiments
-- ✍️ Reflections on what I’m learning, trying, and struggling with
-- 📄 A copy of my resume and a little about me
-
----
-
-## 🌐 Live Website
-
-You can view the site live at:  
-[https://your-username.github.io/minchang-portfolio](https://your-username.github.io/minchang-portfolio)  
-*(replace with your actual link)*
-
----
-
-## 🗂 Folder Structure
-
 ```
 minchang-portfolio/
 ├── index.html           ← Landing page
