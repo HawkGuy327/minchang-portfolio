@@ -1,4 +1,4 @@
-**# Minchang's Portfolio
+Minchang's Portfolio
 
 Welcome to my personal portfolio — a space where I showcase the projects, tools, and creative experiments I’ve been building since the summer before my junior year.
 
