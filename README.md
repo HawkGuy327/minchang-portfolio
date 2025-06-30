@@ -1,5 +1,3 @@
-Minchang's Portfolio
-
 Welcome to my personal portfolio — a space where I showcase the projects, tools, and creative experiments I’ve been building since the summer before my junior year.
 
 This site includes:
@@ -13,8 +11,8 @@ This site includes:
 ## 🌐 Live Website
 
 You can view the site live at:  
-[https://your-username.github.io/minchang-portfolio](https://your-username.github.io/minchang-portfolio)  
-*(replace with your actual link)*
+[https://hawkguy327.github.io/minchang-portfolio/](https://your-username.github.io/minchang-portfolio)  
+
 
 ---
 
