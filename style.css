@@ -1,0 +1,60 @@
+/* General page styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #fdfdfd;
+  color: #222;
+}
+
+/* Big main title (like homepage header) */
+.big-title {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2rem;
+  color: #2c3e50;
+}
+
+/* Standard section heading */
+h2 {
+  font-size: 2rem;
+  margin-top: 2rem;
+  color: #34495e;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.25rem;
+}
+
+/* Subheadings */
+h3 {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  color: #555;
+}
+
+/* Paragraph text */
+p {
+  font-size: 1rem;
+  max-width: 800px;
+  margin: 0.5rem auto;
+  padding: 0 1rem;
+}
+
+/* Optional: navigation bar style */
+nav {
+  background-color: #333;
+  padding: 0.75rem;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 1rem;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
