@@ -11,7 +11,7 @@ This site includes:
 ## 🌐 Live Website
 
 You can view the site live at:  
-[https://hawkguy327.github.io/minchang-portfolio/](https://your-username.github.io/minchang-portfolio)  
+[https://hawkguy327.github.io/minchang-portfolio/](https://hawkguy327.github.io/minchang-portfolio/)  
 
 
 ---
