@@ -9,15 +9,19 @@ body {
 }
 
 /* Big main title (like homepage header) */
-.big-title {
+h1 {
   font-size: 3rem;
   font-weight: bold;
-  text-align: center;
   margin-top: 2rem;
   color: #2c3e50;
 }
-
-/* Standard section heading */
+/*split heading for seperate lines*/
+.split-heading {
+  font-size: 2.5rem;
+  margin: 2rem 0; /* controls space above and below */
+  line-height: 1.2; /* tighter line spacing */
+}
+/*section headers*/
 h2 {
   font-size: 2rem;
   margin-top: 2rem;
@@ -41,6 +45,14 @@ p {
   padding: 0 1rem;
 }
 
+.center {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 /* Optional: navigation bar style */
 nav {
   background-color: #333;
@@ -57,4 +69,31 @@ nav a {
 
 nav a:hover {
   text-decoration: underline;
+}
+
+/* Basic button style */
+.button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: #3498db;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 6px;
+  text-decoration: none;
+  margin: 1rem;
+  transition: background-color 0.2s ease;
+}
+
+/* Hover effect */
+.button:hover {
+  background-color: #2980b9;
+}
+
+.button-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+  gap: 1rem;
 }
