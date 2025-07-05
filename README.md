@@ -22,7 +22,6 @@ You can view the site live at:
 minchang-portfolio/
 ├── index.html           ← Landing page
 ├── about.html           ← Who I am
-├── projects.html        ← Academic & CS projects
 ├── games.html           ← Mini creative experiments
 ├── reflections.html     ← Coding journal & learning notes
 ├── style.css            ← Global styling
