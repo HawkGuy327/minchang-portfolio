@@ -1,4 +1,4 @@
-/* General page styles */
+/*general*/
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
@@ -8,20 +8,13 @@ body {
   color: #222;
 }
 
-/* Big main title (like homepage header) */
 h1 {
   font-size: 3rem;
   font-weight: bold;
   margin-top: 2rem;
   color: #2c3e50;
 }
-/*split heading for seperate lines*/
-.split-heading {
-  font-size: 2.5rem;
-  margin: 2rem 0; /* controls space above and below */
-  line-height: 1.2; /* tighter line spacing */
-}
-/*section headers*/
+
 h2 {
   font-size: 2rem;
   margin-top: 2rem;
@@ -30,19 +23,24 @@ h2 {
   padding-bottom: 0.25rem;
 }
 
-/* Subheadings */
 h3 {
   font-size: 1.5rem;
   margin-top: 1.5rem;
   color: #555;
 }
 
-/* Paragraph text */
 p {
   font-size: 1rem;
   max-width: 800px;
   margin: 0.5rem auto;
   padding: 0 1rem;
+}
+
+/*specific styles*/
+.split-heading {
+  font-size: 2.5rem;
+  margin: 2rem 0;
+  line-height: 1.2; 
 }
 
 .center {
@@ -53,7 +51,7 @@ p {
   justify-content: center;
 }
 
-/* Basic button style */
+/*Basic button stuff*/
 .button {
   display: inline-block;
   padding: 0.75rem 1.5rem;
@@ -67,7 +65,6 @@ p {
   transition: background-color 0.2s ease;
 }
 
-/* Hover effect */
 .button:hover {
   background-color: #2980b9;
 }
@@ -79,7 +76,7 @@ p {
   margin-top: 2rem;
   gap: 1rem;
 }
-
+/*reflection stuff*/
 .reflection-box {
   max-width: 600px;
   margin: 2rem auto;
@@ -102,6 +99,7 @@ p {
   color: #333;
 }
 
+/*navbar*/
 .navbar {
   background-color: #333;
   padding: 1rem;
@@ -114,4 +112,20 @@ p {
   color: white;
   text-decoration: none;
   font-weight: bold;
+}
+
+/*input stuff*/
+.input-button {
+  padding: 12px 24px;
+  font-size: 18px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.input-button:hover {
+  background-color: #0056b3;
 }
