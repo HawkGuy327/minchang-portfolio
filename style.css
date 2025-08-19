@@ -72,12 +72,26 @@ p {
   background-color: #2980b9;
 }
 
-.button-center {
+.button-column {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center; 
+  flex-wrap: wrap;   
   margin-top: 2rem;
   gap: 1rem;
+  width: 100%;  
+}
+
+.button-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap; 
+  margin-top: 2rem;
+  gap: 1rem;
+  width: 100%;  
 }
 /*reflection stuff*/
 .reflection-box {
