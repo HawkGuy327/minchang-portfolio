@@ -86,6 +86,14 @@ img {
   margin-top: 2rem;
 }
 
+.three-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr; /* image column | text column */
+  gap: 2rem;
+  align-items: start;
+  margin-top: 2rem;
+}
+
 /*Basic button stuff*/
 .button {
   border: none;
